@@ -1,0 +1,11 @@
+name: d4_color
+version: 1.0.0
+description: Color spaces! RGB, HSL, Cubehelix, CIELAB, and more.
+repository: https://github.com/luizbarboza/d4_color
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^2.1.1
+  test: ^1.22.0
